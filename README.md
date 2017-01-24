@@ -1,11 +1,11 @@
 ##Intro to Git objectives:##
 
- *understanding the basics of creating a project and tracking it with Git
- *how to push code to Git
- *be able to create a new project from scratch
+ 1.understanding the basics of creating a project and tracking it with Git
+ 2.how to push code to Git
+ 3.be able to create a new project from scratch
 
 
- ###Effectively used:###
+ **Effectively used:**
 
- *Git
- *Github
+ 1.Git
+ 2.Github
